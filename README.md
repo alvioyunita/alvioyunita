@@ -9,7 +9,7 @@ Championing Quality Excellence, One Test at a Time :hammer\_and\_wrench::star2: 
 * 🌍  I'm based in Jakarta
 * 🖥️  See my portfolio at [my-project](http://github.com/alvioyunita)
 * 🚀  I'm currently working on [SMSFinance](http://www.smsfinance.co.id/)
-* 🧠  I'm learning Automation Testing
+* 🧠  I can do Manual Testing and Automation Testing
 
 ### Skills
 
