@@ -7,7 +7,7 @@ Quality Assurance Engineering
 Championing Quality Excellence, One Test at a Time :hammer\_and\_wrench::star2: #QualityEngineering #QA
 
 * 🌍  I'm based in Jakarta, ID
-* 🖥️  See my portfolio at [my-project](http://github.com/alvioyunit](https://github.com/alvioyunita?tab=repositories)
+* 🖥️  See my portfolio at [my-project](https://github.com/alvioyunita?tab=repositories/)
 * 🚀  I'm currently working on [SMSFinance](http://www.smsfinance.co.id/)
 * 🧠  I can do Manual Testing and Automation Testing
 
